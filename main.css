@@ -11,7 +11,7 @@ div {
 }
 
 #red{
-  
+  border-top-color: #f00;
 }
 
 #orange{
@@ -19,7 +19,7 @@ div {
 }
 
 #yellow{
-  border-top-color: #f00
+  border-top-color: #ffa500;
 }
 
 #green{
